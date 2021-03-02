@@ -27,4 +27,9 @@ void test3() {
 	Assert.assertTrue(true);
 }
 
+@Test	
+void test4() {
+	Assert.assertFalse(false);
+}
+
 }
